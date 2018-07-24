@@ -11,7 +11,7 @@ abstract class Abc{
 
    void m2(){
 		System.out.println("abstract concret m2");
-		
+		System.out.println("helooo");
 	}
    
  
